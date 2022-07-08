@@ -7,7 +7,7 @@ education:
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    University of Cincinnati
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
